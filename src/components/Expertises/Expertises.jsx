@@ -1,6 +1,7 @@
 import React from 'react'
 import styles from './Expertises.module.css'
 import {FaHtml5, FaCss3Alt, FaSquareJs, FaReact, FaSass, FaGitAlt, FaNode} from 'react-icons/fa6'
+import Cypress from '../../../public/Cypress-Icon.svg'
 
 function Expertises() {
   return (
@@ -20,7 +21,7 @@ function Expertises() {
           <FaReact/>
         </li>
         <li>
-          <img className='cypress_icon' src='public\Cypress-Icon.svg'/>
+          <img className='cypress_icon' src={Cypress}/>
         </li>
         <li>
           <FaGitAlt/>

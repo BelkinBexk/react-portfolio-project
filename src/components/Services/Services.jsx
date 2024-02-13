@@ -1,6 +1,7 @@
 import React from 'react'
 import styles from './Services.module.css'
 import {FaCode, FaUsersGear } from 'react-icons/fa6'
+import Automation from '../../../public/Automation-Icon.png'
 
 function Services() {
   return (
@@ -15,7 +16,7 @@ function Services() {
             </p>
         </div>
         <div className={styles.services_items}>
-            <img src='public\Automation-Icon.png'/>
+            <img src={Automation}/>
             <h4>Automation Testing</h4>
             <p>Save time and improve the quality of<br/>
             your software with our automation<br/>
