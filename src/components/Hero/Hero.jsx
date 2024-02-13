@@ -42,7 +42,7 @@ function Hero() {
             </div>
             <Tilt scale={1.2} transitionSpeed={2500} tiltReverse={true}>
                 <div className={styles.hero_img}>
-                  <img src='src\assets\Profile-Logo\Profile-Picture.jpg' alt='Profile Picture'/>
+                  <img src='public\Profile-Picture.jpg' alt='Profile Picture'/>
                 </div>
             </Tilt>
         </div>

@@ -20,7 +20,7 @@ function Expertises() {
           <FaReact/>
         </li>
         <li>
-          <img className='cypress_icon' src='src\assets\Expertises-Logo\Cypress-Icon.svg'/>
+          <img className='cypress_icon' src='public\Cypress-Icon.svg'/>
         </li>
         <li>
           <FaGitAlt/>

@@ -11,7 +11,7 @@ function Testimonials() {
                 Partnering with the web development team for our travel insurance platform was an absolute game-changer.
                 Their expertise in crafting user-friendly interfaces and seamless functionalities truly elevated our online presence.
                 </p>
-                <img src='src\assets\Clients-Logo\TVI-Logo.png'/>
+                <img src='public\TVI-Logo.png'/>
                 <h4>Michael Brown</h4>
                 <p className={styles.bio}>Thaivivat Hansa Insurance</p>
             </div>
@@ -20,7 +20,7 @@ function Testimonials() {
                 The automation testing services provided by this team have revolutionized our software development process.
                 Their expertise in test automation frameworks helps in time reduction and software quality. 
                 </p>
-                <img src='src\assets\Clients-Logo\Thun-Logo.svg'/>
+                <img src='public\Thun-Logo.svg'/>
                 <h4>Emily Johnson</h4>
                 <p className={styles.bio}>E-Commerce</p>
             </div>
@@ -29,7 +29,7 @@ function Testimonials() {
                 Working with the business consulting team was a game-changer for our company.
                 Strategic insights and actionable recommendations helped us identify new growth opportunities and streamline our operations.
                 </p>
-                <img src='src\assets\Clients-Logo\TM-Logo.svg'/>
+                <img src='public\TM-Logo.svg'/>
                 <h4>Teoman Alan</h4>
                 <p className={styles.bio}>CEO</p>
             </div>

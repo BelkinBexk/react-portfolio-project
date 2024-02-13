@@ -15,7 +15,7 @@ function Services() {
             </p>
         </div>
         <div className={styles.services_items}>
-            <img src='src\assets\Services-Logo\Business-Consult-Icon.png'/>
+            <img src='public\Automation-Icon.png'/>
             <h4>Automation Testing</h4>
             <p>Save time and improve the quality of<br/>
             your software with our automation<br/>
